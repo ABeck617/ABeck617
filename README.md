@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Learning how to Learn
-- 🌱 I’m currently learning ...Programming
+- 🌱 I’m currently learning ...Python....Later: Golang
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
