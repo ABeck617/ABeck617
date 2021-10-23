@@ -5,7 +5,7 @@ Greetings my name is Anthony Beckford!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Learning how to Learn
-- 🌱 I’m currently learning ..C#/.NET
+- 🌱 I’m currently learning ..JavaScript
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... AZURE/AWS
 - 💬 Ask me about ... Anything
