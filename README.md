@@ -5,9 +5,9 @@ Greetings my name is Anthony Beckford!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Learning how to Learn
-- 🌱 I’m currently learning ..JavaScript
+- 🌱 I’m currently learning ..Java
 - 👯 I’m looking to collaborate on ... Projects
-- 🤔 I’m looking for help with ... JavaScript
+- 🤔 I’m looking for help with ... Backend Development
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Email](abeckford03@yahoo.com)
 - 😄 Pronouns: ... He/Him
