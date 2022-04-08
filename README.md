@@ -4,10 +4,10 @@
 Greetings my name is Anthony Beckford!
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...100daysofSwiftUI
-- 🌱 I’m currently learning ..Swift
+- 🔭 I’m currently working on ...Software Development
+- 🌱 I’m currently learning ..Building Projects
 - 👯 I’m looking to collaborate on ... Projects
-- 🤔 I’m looking for help with ... iOS Development
+- 🤔 I’m looking for help with ...Building Projects
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Email](abeckford03@yahoo.com)
 - 😄 Pronouns: ... He/Him
