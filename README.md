@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'am passioate about Martial Arts 
 -->
+
+
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABeck617a)](https://github.com/ABeck617/github-readme-stats)
