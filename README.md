@@ -4,8 +4,8 @@
 Greetings my name is Anthony Beckford!
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Software Development
-- 🌱 I’m currently learning ..Building Projects
+- 🔭 I’m currently working on ...iOS Development
+- 🌱 I’m currently learning ..SwiftUI
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ...Building Projects
 - 💬 Ask me about ... Anything
