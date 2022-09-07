@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony Beckford
 ========================================================================================================================================
 
-Mobile Developer
+Web & App Developer
 ----------------
 
-I'm a mobile developer specializing in iOS Development (Swift, UIKit)
+I'm a web & app developer
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [abeckford532@gmail.com](mailto:abeckford532@gmail.com)
