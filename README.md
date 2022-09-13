@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer
 ----------------
 
-I'm a Web & App developer
+I'm a Software Engineer
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [abeckford532@gmail.com](mailto:abeckford532@gmail.com)
