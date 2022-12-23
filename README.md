@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony Beckford
 ========================================================================================================================================
 
-Mobile Developer
+Software Developer
 ----------------
 
 I'm a Software Engineer
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [abeckford532@gmail.com](mailto:abeckford532@gmail.com)
-* 🧠  I'm learning Swift/UIKit
+* 🧠  I'm learning Web/Mobile development
 * 🤝  I'm open to collaborating on Projects, Open Source
 
 ### Skills
