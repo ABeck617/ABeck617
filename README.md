@@ -8,7 +8,7 @@ Anthony is a Developer, Open Source Contributor, and Mentor with a passion for h
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [abeckford532@gmail.com](mailto:abeckford532@gmail.com)
-* 🧠  I'm learning Web/Mobile Development, Cloud Computing
+* 🧠  I'm learning Backend Development, Cloud Computing
 * 🤝  I'm open to collaborating on Projects, Open Source
 
 ### Skills
